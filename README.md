@@ -1,7 +1,5 @@
 # hahayes.cpp
 
-i can c++
+> haha yes I can C++
 
-### ALL FILES IN bin/ are compiled on OSX or Debian
-
-also, i am keeping `.vscode`, no matter what you say paul
+### Compiled files in /bin (Debian / MacOS)
